@@ -1,3 +1,9 @@
 .App {
     text-align: center;
   }
+
+.App table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 30%;
+}

@@ -1,6 +1,6 @@
 #### Task1
-npx create-react-app .
-npm install axios
+npm install
+npm start
 
 #### Task2
 - Directory Structure
@@ -13,6 +13,14 @@ frontend/
   ├── package.json
   ├── Dockerfile
   ├── .env
+
+#### Task3
+dotenv
+REACT_APP_API_URL=http://{api서버주소}
+
+
+
+
 
 # Available Scripts
 
